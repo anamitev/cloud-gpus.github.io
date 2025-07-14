@@ -653,8 +653,8 @@
             "url": "https://www.exoscale.com/gpu/?ref=cloud_gpus",
             "cost1080": "-",
             "costv100": "$1.375",
-            "costp100": "$1.168",
-            "costt4": "-",
+            "costp100": "-",
+            "costa30": "$1.226",
             "costk80": "-",
             "costm60": "-",
             "cost3080": "$0.923",
@@ -678,7 +678,11 @@
             "ssh": true,
             "credits": "-",
             "persistence": true,
+<<<<<<< Updated upstream
             "region": "Europe"
+=======
+            "region": "Switzerland, Germany, Austria, Bulgaria, Croatia"
+>>>>>>> Stashed changes
         },
         {
             "name": "ACE Cloud",
